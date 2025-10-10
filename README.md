@@ -20,7 +20,7 @@ This project uses a trained Neural Network model built with **TensorFlow** and *
 python app.py
 ```
 
-![App Interface](interface/Interface.png)
+![App Interface](Web_Interface.png)
 
 ## 📜 Author
 
