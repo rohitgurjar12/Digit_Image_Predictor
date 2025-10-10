@@ -19,5 +19,13 @@ This project uses a trained Neural Network model built with **TensorFlow** and *
 ```bash
 python app.py
 
+
 ![App Interface](interface/Interface.png)
+
+## 📜 Author
+
+**Rohit**  
+🎓 Student | 💡 AI Learner | 🤖 Project Creator  
+
+[🔗 GitHub Profile](https://github.com/rohitgurjar12)
 
