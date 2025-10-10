@@ -13,17 +13,18 @@ This project uses a trained Neural Network model built with **TensorFlow** and *
 - TensorFlow / Keras
 - Flask
 - HTML, CSS, JavaScript
+- VS Code
 
 ## ⚙ How to Run
 ```bash
 python app.py
 ```
 
-![App Interface](Interface.png)
+![App Interface](interface/Interface.png)
 
-##  Author
+## 📜 Author
 
-**Rohit Gurjar**  
+**Rohit**  
 🎓 Student | 💡 AI Learner | 🤖 Project Creator  
 
 [🔗 GitHub Profile](https://github.com/rohitgurjar12)
