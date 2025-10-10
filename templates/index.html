@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digit & Image Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Predictor</h1>
+        <p class="subtitle">Predict Handwritten Digits or Upload an Image</p>
+
+        <div class="card">
+            <h2>Digit Predictor</h2>
+            <form id="digitForm" enctype="multipart/form-data">
+                <input type="text" name="num" accept="Enter Any Number" required>
+                <button type="submit">Predict Digit</button>
+            </form>
+            <p class="result" id="digitResult"></p>
+        </div>
+
+        <div class="card">
+            <h2>Image Predictor</h2>
+            <form id="imageForm" enctype="multipart/form-data">
+                <input type="file" name="file" accept="image/*" required>
+                <button type="submit">Predict Image</button>
+            </form>
+            <p class="result" id="imageResult"></p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
