@@ -13,14 +13,13 @@ This project uses a trained Neural Network model built with **TensorFlow** and *
 - TensorFlow / Keras
 - Flask
 - HTML, CSS, JavaScript
-- VS Code
 
 ## ⚙ How to Run
 ```bash
 python app.py
 ```
 
-![App Interface](Web_Interface.png)
+![App Interface](interface/car.png)
 
 ## 📜 Author
 
