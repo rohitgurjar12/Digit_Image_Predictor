@@ -23,7 +23,7 @@ python app.py
 
 ## 📜 Author
 
-**Rohit**  
+**Rohit Gurjar**  
 🎓 Student | 💡 AI Learner | 🤖 Project Creator  
 
 [🔗 GitHub Profile](https://github.com/rohitgurjar12)
